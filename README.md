@@ -1,4 +1,4 @@
-# weather-app
+# Weather App
 
 Weather app built using Javascript from the beginning. Uses async / await and fetch to get data from openweathermap.org.
 Uses Bootstrap for basic styling.
